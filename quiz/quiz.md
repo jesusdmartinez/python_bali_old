@@ -174,7 +174,7 @@ write the following queries:
 
 ## Challenges (do as many as you can)
 - Write a function to reverse a string
-    ### ```x = "hello"
+```x = "hello"
 for letter in range(1, len(x)+1):
     print(x[-1 * letter])```
 
